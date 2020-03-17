@@ -1,6 +1,10 @@
 Firmware SHA2017Badge
 =====================
 
+THIS WORK HAS MOVED TO https://github.com/badgeteam/ESP32-platform-firmware.
+
+---
+
 Read [project documentation](https://wiki.sha2017.org/w/Projects:Badge)
 and get involved.
 
